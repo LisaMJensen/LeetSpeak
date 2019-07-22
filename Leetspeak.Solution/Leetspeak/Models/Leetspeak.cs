@@ -1,23 +1,48 @@
-using System;
+// using System;
 
-namespace Leetspeak
-{
-    public class LeetLetter
-    {
-        public string IsLeetLetter (string letter)
-        {
-            var taker = letter;
+// namespace Leetspeak
+// {
+//     public class LeetLetter
+//     {
+//         public string IsLeetLetter (string letter)
+//         {
             
-            if ( taker == "e" || taker == "E")
-            {
-                return "3";
-            }
-            else
-            {
-                return letter;
-            }
-        }
-    }
+//             if ( letter == "e" || letter == "E")
+//             {
+//                 return "3";
+//             }
+//             else if (letter == "o" || letter =="O")
+//             {
+//                 return "0";   
+//             }
+//             else if (letter == "I")
+//             {
+//                 return "1";
+//             }
+//             else if (letter == "t" || letter == "T")
+//             {
+//                 return "7";
+//             }
+//             else if (letter == "s" || letter == "S")
+//             {
+                //  if (letter == str[0])
+                //  {
+                //      return letter;
+                //  }
+                //  else
+                //  {
+                     //return "z";
+                 //}
+                 
+    //         }
+    //         else
+    //         {
+    //             return letter;
+    //         }
+
+    //     }
+    //     public string Replace ()
+    // }
 //      public class Program
 //   {
 //     public static void Main()
@@ -57,4 +82,4 @@ namespace Leetspeak
 //     }
 //   }
 
-}
+//}
